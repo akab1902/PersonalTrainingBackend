@@ -6,6 +6,7 @@ Backend for Personal Training App hosts the pre-trained model and implements the
 -	Tensorflow 
 -	Other required packages are in backend/requirements.txt. Run "pip install requirements.txt" to install them:
   numpy, matplotlib, django, django-rest-framework, ffmpeg, opencv-python 
+- For dataset used in model training check out this link: https://drive.google.com/file/d/1MNGGdr1X0X4g_VdcPBk0R_pcml_95lXn/view?usp=share_link 
 
 ### Steps:
 1.	Clone git repository “PersonalTrainingAppBackend”
